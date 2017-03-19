@@ -1,3 +1,4 @@
+build
 Makefile
 CMakeFiles
 _CPack_Packages
@@ -6,8 +7,11 @@ install_manifest*.txt
 CMakeCache.txt
 CPackConfig.cmake
 CPackSourceConfig.cmake
+log
 .comFedRTI.*
 *.pyc
 *.rpm
 *.zip
 *.gz
+*.so
+*.log
