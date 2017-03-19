@@ -8,6 +8,8 @@ CMakeCache.txt
 CPackConfig.cmake
 CPackSourceConfig.cmake
 log
+Testing
+CTestTestfile.cmake
 .comFedRTI.*
 *.pyc
 *.rpm
@@ -15,3 +17,6 @@ log
 *.gz
 *.so
 *.log
+msc.sty
+*.dvi
+*.pdf
